@@ -4,7 +4,7 @@ body {
     color: #cccccc;
     font-family: 'Roboto', sans-serif; /* Changed font for a modern look */
     line-height: 1.6;
-    padding: 0 20px; /* Add horizontal padding to the body */
+    padding: 0px; /* Add horizontal padding to the body */
 }
 
 h1, h2 {
